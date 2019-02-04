@@ -1,0 +1,49 @@
+----------------------------------
+Metrics
+--------------------------------------------------------------------
+Uniformity = 0.917
+ Complexity= 0.478
+ Simplicity= 0.064
+ Sequence= 0.207
+ Regularity= 1.0
+ Integrality= 1.0
+ Density= 0.895
+ Economy= 0.05
+ Clarity= 0.625
+ Unity= 0.272
+ Cohesion= 0.307
+ Balance=  0.276
+ Grouping= 1.0
+ Homogeneity= 0.0
+Number of elements= 0.421
+--------------------------------------------------------------------
+Remarks
+--------------------------------------------------------------------
+--Economy of the MUI :: you have  23  components, with  20  different types
+--Regularity of the MUI :: number of rows= 8 and number of columns= 16
+      - There is 144 different spaces between your widgets.
+      - 34 differences in rows, and 110 different distances in columns
+--Uniformity of the MUI :: Here is your widgets repartition on the MUI
+      - UL has 7 widget(s) / UR has 10 widget(s) /LL has 1 widget(s) /LR has 6 widget(s) 
+
+--Clarity of the MUI (button texts):: you have 2 button(s) without text(s) for 4 buttons
+ --Clarity of the MUI (menu items):: you have 1 item(s) without title(s) for 4 items
+
+--------------------------------------------------------------------
+Defects
+--------------------------------------------------------------------
+-----------------------------------------------------------------------------
+----------------------------------------------
+Defect                         Status 
+----------------------------------------------
+Overloaded MUI                 Detected
+----------------------------------------------
+Imbalanced MUI                         
+----------------------------------------------
+InCohesion of MUI              Detected
+----------------------------------------------
+Incorrect layout of MUI                
+----------------------------------------------
+Difficult navigation                   
+----------------------------------------------
+

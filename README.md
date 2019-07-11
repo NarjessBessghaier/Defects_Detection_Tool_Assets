@@ -5,3 +5,6 @@ In this repository you shall find all related assets to our study
   - The tool (2 packages: pareser and metrics calculator)
   - some uix dumb files for test
   - All kiviat charts
+  
+  UPDATES
+  -A JSON files parser has been added

@@ -8,5 +8,5 @@ In this repository you shall find all related assets to our study
   
   UPDATES
   
-  -a JSON files parser has been added
+  - a JSON files parser has been added
   - MUIdefects.xlsx contains the RQ3 evaluation data

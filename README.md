@@ -7,4 +7,5 @@ In this repository you shall find all related assets to our study
   - All kiviat charts
   
   UPDATES
-  -A JSON files parser has been added
+  -a JSON files parser has been added
+  - MUIdefects.xlsx contains the RQ3 evaluation data
